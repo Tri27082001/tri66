@@ -1,0 +1,55 @@
+*{
+  margin: 0;
+  padding: 0;  
+}
+h2{
+    padding-left: 100px;
+    padding-bottom: 100px;
+    color: white;
+}
+.main{
+    background-image: url(img/BG\ Footer.png);
+    height: 250px;
+    width: auto;
+}
+.main .nut{
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 300px;
+    height: 30px;
+    margin-left: 700px;
+   
+    
+}
+hr {
+    color: rgb(99, 51, 187);
+    background: rgb(99, 51, 187);
+    border: 0;
+    height: 1px;
+    }
+
+.icon{
+    display: flex;
+    margin-left: 1200px;
+    padding: 10px;
+}
+.chu {
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    color: white;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.chu span{
+    color: rgba(255, 255, 255, 0.164);
+}
+.icon .tiw{
+    background-image: url(img/Rounded\ Rectangle\ 3\ copy.png);
+
+}
+.icon .fb{
+    background-image: url(img/Rounded\ Rectangle\ 3.png);
+}
+ 
